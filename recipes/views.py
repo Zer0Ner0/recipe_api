@@ -26,6 +26,10 @@ class RecipeViewSet(viewsets.ModelViewSet):
             return FullRecipeSerializer
         return RecipeListSerializer
 
+    @method_decorator(cache_page(60 * 15))  # Cache list for 15 minutes
+    def list(self, request, *args, **kwargs):
+        return super().list(request, *args, **kwargs)
+
 class IngredientViewSet(viewsets.ModelViewSet):
     queryset = Ingredient.objects.all()
     serializer_class = IngredientSerializer
@@ -61,8 +65,19 @@ class SavedRecipeViewSet(viewsets.ModelViewSet):
     serializer_class = SavedRecipeSerializer
 
 def recipe_list(request):
-    recipes = Recipe.objects.all()
-    return render(request, 'recipe_list.html', {'recipes': recipes})
+    recipe_queryset = Recipe.objects.all().order_by('-created_at')
+
+    # Number of recipes per page
+    paginator = Paginator(recipe_queryset, 10)
+
+    # Get page number from query string (?page=2)
+    page_number = request.GET.get('page')
+    page_obj = paginator.get_page(page_number)
+
+    return render(request, 'recipe_list.html', {
+        'page_obj': page_obj,        # Paginated object
+        'recipes': page_obj.object_list,  # Current page recipes
+    })
 
 def recipe_add(request):
     if request.method == "POST":

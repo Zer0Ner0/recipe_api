@@ -17,26 +17,19 @@
 
     {% if recipes %}
     <ul class="list-group mb-4">
-      {% for recipe in recipes %}
-      <li
-        class="list-group-item d-flex justify-content-between align-items-center"
-      >
-        {{ recipe.title }}
-        <span>
-          <a
-            href="{% url 'recipe_edit' recipe.id %}"
-            class="btn btn-sm btn-primary"
-            >Edit</a
-          >
-          <a
-            href="{% url 'recipe_delete' recipe.id %}"
-            class="btn btn-sm btn-danger"
-            >Delete</a
-          >
-        </span>
-      </li>
-      {% endfor %}
+        {% for recipe in recipes %}
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            {{ recipe.title }}
+            <span>
+                <a href="{% url 'recipe_edit' recipe.id %}" class="btn btn-sm btn-primary">Edit</a>
+                <a href="{% url 'recipe_delete' recipe.id %}" class="btn btn-sm btn-danger">Delete</a>
+            </span>
+        </li>
+        {% empty %}
+        <p>No recipes found.</p>
+        {% endfor %}
     </ul>
+    {% endif %}
 
     <!-- Pagination Controls -->
     {% if page_obj.has_other_pages %}
@@ -48,32 +41,32 @@
             >Previous</a
           >
         </li>
-        {% else %}
+        {% empty %}
         <li class="page-item disabled">
           <span class="page-link">Previous</span>
         </li>
-        {% endif %} {% for num in page_obj.paginator.page_range %} {% if
+        {% endfor %} {% for num in page_obj.paginator.page_range %} {% if
         page_obj.number == num %}
         <li class="page-item active">
           <span class="page-link">{{ num }}</span>
         </li>
-        {% else %}
+        {% empty %}
         <li class="page-item">
           <a class="page-link" href="?page={{ num }}">{{ num }}</a>
         </li>
-        {% endif %} {% endfor %} {% if page_obj.has_next %}
+        {% endfor %} {% endfor %} {% if page_obj.has_next %}
         <li class="page-item">
           <a class="page-link" href="?page={{ page_obj.next_page_number }}"
             >Next</a
           >
         </li>
-        {% else %}
+        {% empty %}
         <li class="page-item disabled"><span class="page-link">Next</span></li>
-        {% endif %}
+        {% endfor %}
       </ul>
     </nav>
-    {% endif %} {% else %}
+    {% endfor %} {% empty %}
     <p>No recipes found.</p>
-    {% endif %}
+    {% endfor %}
   </body>
 </html>

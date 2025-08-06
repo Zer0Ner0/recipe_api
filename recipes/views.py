@@ -13,6 +13,7 @@ from django.shortcuts import render, get_object_or_404, redirect
 from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework.permissions import IsAuthenticatedOrReadOnly
 from .filters import RecipeFilter  #  use your custom filter
+from django.core.paginator import Paginator
 
 class RecipeViewSet(viewsets.ModelViewSet):
     queryset = Recipe.objects.all().order_by('-created_at')

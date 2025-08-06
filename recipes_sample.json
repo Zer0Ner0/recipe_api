@@ -1,0 +1,2552 @@
+[
+  {
+    "title": "Cabbage Soup",
+    "time": "23 min",
+    "rating": "3.8",
+    "image": "https://picsum.photos/seed/recipe0/600/400",
+    "author": "Chef John",
+    "ingredients": [
+      {
+        "name": "Paprika",
+        "amount": "413g"
+      },
+      {
+        "name": "Chili",
+        "amount": "357g"
+      },
+      {
+        "name": "Noodles",
+        "amount": "344g"
+      },
+      {
+        "name": "Onion",
+        "amount": "319g"
+      },
+      {
+        "name": "Noodles",
+        "amount": "53g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Stir in spices and seasonings."
+      }
+    ]
+  },
+  {
+    "title": "Gado-Gado",
+    "time": "14 min",
+    "rating": "4.2",
+    "image": "https://picsum.photos/seed/recipe1/600/400",
+    "author": "Chef Anna",
+    "ingredients": [
+      {
+        "name": "Egg",
+        "amount": "422g"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "396g"
+      },
+      {
+        "name": "Butter",
+        "amount": "452g"
+      },
+      {
+        "name": "Cumin",
+        "amount": "192g"
+      },
+      {
+        "name": "Milk",
+        "amount": "315g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Chop all the vegetables."
+      }
+    ]
+  },
+  {
+    "title": "Prawn Laksa",
+    "time": "57 min",
+    "rating": "4.2",
+    "image": "https://picsum.photos/seed/recipe2/600/400",
+    "author": "Chef David",
+    "ingredients": [
+      {
+        "name": "Pepper",
+        "amount": "486g"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "33g"
+      },
+      {
+        "name": "Tomato",
+        "amount": "202g"
+      },
+      {
+        "name": "Milk",
+        "amount": "478g"
+      },
+      {
+        "name": "Rice",
+        "amount": "273g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      }
+    ]
+  },
+  {
+    "title": "Quiche Lorraine",
+    "time": "23 min",
+    "rating": "4.6",
+    "image": "https://picsum.photos/seed/recipe3/600/400",
+    "author": "Chef Siti",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "amount": "316g"
+      },
+      {
+        "name": "Potato",
+        "amount": "238g"
+      },
+      {
+        "name": "Salt",
+        "amount": "132g"
+      },
+      {
+        "name": "Garlic",
+        "amount": "83g"
+      },
+      {
+        "name": "Potato",
+        "amount": "420g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      }
+    ]
+  },
+  {
+    "title": "Ratatouille",
+    "time": "71 min",
+    "rating": "4.9",
+    "image": "https://picsum.photos/seed/recipe4/600/400",
+    "author": "Chef Anna",
+    "ingredients": [
+      {
+        "name": "Cumin",
+        "amount": "465g"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "425g"
+      },
+      {
+        "name": "Beef",
+        "amount": "309g"
+      },
+      {
+        "name": "Garlic",
+        "amount": "285g"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "451g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Serve hot with garnish."
+      }
+    ]
+  },
+  {
+    "title": "Omelette",
+    "time": "78 min",
+    "rating": "3.6",
+    "image": "https://picsum.photos/seed/recipe5/600/400",
+    "author": "Chef Anna",
+    "ingredients": [
+      {
+        "name": "Onion",
+        "amount": "469g"
+      },
+      {
+        "name": "Milk",
+        "amount": "2g"
+      },
+      {
+        "name": "Butter",
+        "amount": "367g"
+      },
+      {
+        "name": "Chili",
+        "amount": "255g"
+      },
+      {
+        "name": "Milk",
+        "amount": "71g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      }
+    ]
+  },
+  {
+    "title": "Baked Salmon",
+    "time": "52 min",
+    "rating": "4.0",
+    "image": "https://picsum.photos/seed/recipe6/600/400",
+    "author": "Chef Siti",
+    "ingredients": [
+      {
+        "name": "Beef",
+        "amount": "346g"
+      },
+      {
+        "name": "Celery",
+        "amount": "426g"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "422g"
+      },
+      {
+        "name": "Onion",
+        "amount": "127g"
+      },
+      {
+        "name": "Cumin",
+        "amount": "246g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Heat oil in a pan."
+      }
+    ]
+  },
+  {
+    "title": "Biryani",
+    "time": "81 min",
+    "rating": "4.7",
+    "image": "https://picsum.photos/seed/recipe7/600/400",
+    "author": "Chef Siti",
+    "ingredients": [
+      {
+        "name": "Noodles",
+        "amount": "107g"
+      },
+      {
+        "name": "Paprika",
+        "amount": "282g"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "362g"
+      },
+      {
+        "name": "Butter",
+        "amount": "473g"
+      },
+      {
+        "name": "Coconut Milk",
+        "amount": "370g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Chop all the vegetables."
+      }
+    ]
+  },
+  {
+    "title": "Lasagna",
+    "time": "31 min",
+    "rating": "3.6",
+    "image": "https://picsum.photos/seed/recipe8/600/400",
+    "author": "Chef Siti",
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "amount": "442g"
+      },
+      {
+        "name": "Carrot",
+        "amount": "237g"
+      },
+      {
+        "name": "Paprika",
+        "amount": "230g"
+      },
+      {
+        "name": "Potato",
+        "amount": "217g"
+      },
+      {
+        "name": "Paprika",
+        "amount": "218g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Heat oil in a pan."
+      }
+    ]
+  },
+  {
+    "title": "Sushi Rolls",
+    "time": "39 min",
+    "rating": "3.6",
+    "image": "https://picsum.photos/seed/recipe9/600/400",
+    "author": "Chef Siti",
+    "ingredients": [
+      {
+        "name": "Noodles",
+        "amount": "498g"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "324g"
+      },
+      {
+        "name": "Milk",
+        "amount": "281g"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "443g"
+      },
+      {
+        "name": "Rice",
+        "amount": "456g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Stir in spices and seasonings."
+      }
+    ]
+  },
+  {
+    "title": "Ramen",
+    "time": "35 min",
+    "rating": "4.2",
+    "image": "https://picsum.photos/seed/recipe10/600/400",
+    "author": "Chef David",
+    "ingredients": [
+      {
+        "name": "Rice",
+        "amount": "251g"
+      },
+      {
+        "name": "Milk",
+        "amount": "351g"
+      },
+      {
+        "name": "Milk",
+        "amount": "89g"
+      },
+      {
+        "name": "Pepper",
+        "amount": "500g"
+      },
+      {
+        "name": "Potato",
+        "amount": "17g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add protein and cook until browned."
+      }
+    ]
+  },
+  {
+    "title": "Sushi Rolls",
+    "time": "19 min",
+    "rating": "4.6",
+    "image": "https://picsum.photos/seed/recipe11/600/400",
+    "author": "Chef Maya",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "amount": "224g"
+      },
+      {
+        "name": "Tomato",
+        "amount": "237g"
+      },
+      {
+        "name": "Onion",
+        "amount": "377g"
+      },
+      {
+        "name": "Chili",
+        "amount": "477g"
+      },
+      {
+        "name": "Rice",
+        "amount": "204g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      }
+    ]
+  },
+  {
+    "title": "Prawn Laksa",
+    "time": "68 min",
+    "rating": "4.1",
+    "image": "https://picsum.photos/seed/recipe12/600/400",
+    "author": "Chef Ali",
+    "ingredients": [
+      {
+        "name": "Celery",
+        "amount": "294g"
+      },
+      {
+        "name": "Coconut Milk",
+        "amount": "250g"
+      },
+      {
+        "name": "Cumin",
+        "amount": "218g"
+      },
+      {
+        "name": "Tomato",
+        "amount": "5g"
+      },
+      {
+        "name": "Rice",
+        "amount": "263g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      }
+    ]
+  },
+  {
+    "title": "Shakshuka",
+    "time": "40 min",
+    "rating": "3.9",
+    "image": "https://picsum.photos/seed/recipe13/600/400",
+    "author": "Chef Anna",
+    "ingredients": [
+      {
+        "name": "Soy Sauce",
+        "amount": "139g"
+      },
+      {
+        "name": "Coconut Milk",
+        "amount": "143g"
+      },
+      {
+        "name": "Rice",
+        "amount": "75g"
+      },
+      {
+        "name": "Onion",
+        "amount": "438g"
+      },
+      {
+        "name": "Coconut Milk",
+        "amount": "476g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add protein and cook until browned."
+      }
+    ]
+  },
+  {
+    "title": "Falafel Wrap",
+    "time": "59 min",
+    "rating": "4.8",
+    "image": "https://picsum.photos/seed/recipe14/600/400",
+    "author": "Chef David",
+    "ingredients": [
+      {
+        "name": "Rice",
+        "amount": "104g"
+      },
+      {
+        "name": "Carrot",
+        "amount": "444g"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "413g"
+      },
+      {
+        "name": "Pepper",
+        "amount": "280g"
+      },
+      {
+        "name": "Butter",
+        "amount": "333g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Serve hot with garnish."
+      }
+    ]
+  },
+  {
+    "title": "Ratatouille",
+    "time": "49 min",
+    "rating": "4.9",
+    "image": "https://picsum.photos/seed/recipe15/600/400",
+    "author": "Chef David",
+    "ingredients": [
+      {
+        "name": "Soy Sauce",
+        "amount": "353g"
+      },
+      {
+        "name": "Paprika",
+        "amount": "228g"
+      },
+      {
+        "name": "Potato",
+        "amount": "77g"
+      },
+      {
+        "name": "Egg",
+        "amount": "60g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "12g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Stir in spices and seasonings."
+      }
+    ]
+  },
+  {
+    "title": "Tom Yum Soup",
+    "time": "13 min",
+    "rating": "4.6",
+    "image": "https://picsum.photos/seed/recipe16/600/400",
+    "author": "Chef John",
+    "ingredients": [
+      {
+        "name": "Chili",
+        "amount": "191g"
+      },
+      {
+        "name": "Garlic",
+        "amount": "468g"
+      },
+      {
+        "name": "Pepper",
+        "amount": "164g"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "189g"
+      },
+      {
+        "name": "Onion",
+        "amount": "221g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      }
+    ]
+  },
+  {
+    "title": "Lasagna",
+    "time": "51 min",
+    "rating": "4.9",
+    "image": "https://picsum.photos/seed/recipe17/600/400",
+    "author": "Chef Anna",
+    "ingredients": [
+      {
+        "name": "Egg",
+        "amount": "460g"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "332g"
+      },
+      {
+        "name": "Paprika",
+        "amount": "71g"
+      },
+      {
+        "name": "Egg",
+        "amount": "121g"
+      },
+      {
+        "name": "Salt",
+        "amount": "425g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Taste and adjust seasoning."
+      }
+    ]
+  },
+  {
+    "title": "Egg Fried Rice",
+    "time": "55 min",
+    "rating": "4.6",
+    "image": "https://picsum.photos/seed/recipe18/600/400",
+    "author": "Chef Ali",
+    "ingredients": [
+      {
+        "name": "Soy Sauce",
+        "amount": "442g"
+      },
+      {
+        "name": "Egg",
+        "amount": "412g"
+      },
+      {
+        "name": "Coriander",
+        "amount": "99g"
+      },
+      {
+        "name": "Carrot",
+        "amount": "103g"
+      },
+      {
+        "name": "Onion",
+        "amount": "487g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      }
+    ]
+  },
+  {
+    "title": "Stuffed Peppers",
+    "time": "16 min",
+    "rating": "3.9",
+    "image": "https://picsum.photos/seed/recipe19/600/400",
+    "author": "Chef John",
+    "ingredients": [
+      {
+        "name": "Noodles",
+        "amount": "24g"
+      },
+      {
+        "name": "Potato",
+        "amount": "138g"
+      },
+      {
+        "name": "Paprika",
+        "amount": "112g"
+      },
+      {
+        "name": "Cumin",
+        "amount": "8g"
+      },
+      {
+        "name": "Butter",
+        "amount": "217g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Taste and adjust seasoning."
+      }
+    ]
+  },
+  {
+    "title": "Tacos",
+    "time": "31 min",
+    "rating": "3.7",
+    "image": "https://picsum.photos/seed/recipe20/600/400",
+    "author": "Chef Anna",
+    "ingredients": [
+      {
+        "name": "Cumin",
+        "amount": "312g"
+      },
+      {
+        "name": "Rice",
+        "amount": "498g"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "452g"
+      },
+      {
+        "name": "Salt",
+        "amount": "332g"
+      },
+      {
+        "name": "Coriander",
+        "amount": "68g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Heat oil in a pan."
+      }
+    ]
+  },
+  {
+    "title": "Beef Pho",
+    "time": "51 min",
+    "rating": "4.0",
+    "image": "https://picsum.photos/seed/recipe21/600/400",
+    "author": "Chef Maya",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "amount": "461g"
+      },
+      {
+        "name": "Rice",
+        "amount": "122g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "496g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "84g"
+      },
+      {
+        "name": "Garlic",
+        "amount": "231g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Serve hot with garnish."
+      }
+    ]
+  },
+  {
+    "title": "Chicken Satay",
+    "time": "18 min",
+    "rating": "4.1",
+    "image": "https://picsum.photos/seed/recipe22/600/400",
+    "author": "Chef Anna",
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "amount": "362g"
+      },
+      {
+        "name": "Coconut Milk",
+        "amount": "54g"
+      },
+      {
+        "name": "Rice",
+        "amount": "145g"
+      },
+      {
+        "name": "Celery",
+        "amount": "449g"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "181g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Heat oil in a pan."
+      }
+    ]
+  },
+  {
+    "title": "Fried Rice",
+    "time": "53 min",
+    "rating": "3.7",
+    "image": "https://picsum.photos/seed/recipe23/600/400",
+    "author": "Chef Ali",
+    "ingredients": [
+      {
+        "name": "Onion",
+        "amount": "360g"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "314g"
+      },
+      {
+        "name": "Pepper",
+        "amount": "429g"
+      },
+      {
+        "name": "Pepper",
+        "amount": "136g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "276g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      }
+    ]
+  },
+  {
+    "title": "Tempura Udon",
+    "time": "67 min",
+    "rating": "3.6",
+    "image": "https://picsum.photos/seed/recipe24/600/400",
+    "author": "Chef Siti",
+    "ingredients": [
+      {
+        "name": "Coriander",
+        "amount": "350g"
+      },
+      {
+        "name": "Cumin",
+        "amount": "197g"
+      },
+      {
+        "name": "Beef",
+        "amount": "408g"
+      },
+      {
+        "name": "Celery",
+        "amount": "493g"
+      },
+      {
+        "name": "Coconut Milk",
+        "amount": "261g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add protein and cook until browned."
+      }
+    ]
+  },
+  {
+    "title": "Katsu Curry",
+    "time": "17 min",
+    "rating": "4.1",
+    "image": "https://picsum.photos/seed/recipe25/600/400",
+    "author": "Chef David",
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "amount": "68g"
+      },
+      {
+        "name": "Chili",
+        "amount": "138g"
+      },
+      {
+        "name": "Potato",
+        "amount": "15g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "264g"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "118g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      }
+    ]
+  },
+  {
+    "title": "Tandoori Chicken",
+    "time": "48 min",
+    "rating": "3.7",
+    "image": "https://picsum.photos/seed/recipe26/600/400",
+    "author": "Chef Maya",
+    "ingredients": [
+      {
+        "name": "Olive Oil",
+        "amount": "271g"
+      },
+      {
+        "name": "Coriander",
+        "amount": "80g"
+      },
+      {
+        "name": "Noodles",
+        "amount": "236g"
+      },
+      {
+        "name": "Cumin",
+        "amount": "155g"
+      },
+      {
+        "name": "Coriander",
+        "amount": "116g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Taste and adjust seasoning."
+      }
+    ]
+  },
+  {
+    "title": "Greek Salad",
+    "time": "20 min",
+    "rating": "5.0",
+    "image": "https://picsum.photos/seed/recipe27/600/400",
+    "author": "Chef Siti",
+    "ingredients": [
+      {
+        "name": "Salt",
+        "amount": "186g"
+      },
+      {
+        "name": "Salt",
+        "amount": "372g"
+      },
+      {
+        "name": "Salt",
+        "amount": "16g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "156g"
+      },
+      {
+        "name": "Noodles",
+        "amount": "294g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Serve hot with garnish."
+      }
+    ]
+  },
+  {
+    "title": "Nasi Lemak",
+    "time": "22 min",
+    "rating": "3.7",
+    "image": "https://picsum.photos/seed/recipe28/600/400",
+    "author": "Chef Anna",
+    "ingredients": [
+      {
+        "name": "Soy Sauce",
+        "amount": "277g"
+      },
+      {
+        "name": "Milk",
+        "amount": "24g"
+      },
+      {
+        "name": "Milk",
+        "amount": "83g"
+      },
+      {
+        "name": "Beef",
+        "amount": "248g"
+      },
+      {
+        "name": "Noodles",
+        "amount": "83g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Serve hot with garnish."
+      }
+    ]
+  },
+  {
+    "title": "Baked Salmon",
+    "time": "66 min",
+    "rating": "3.6",
+    "image": "https://picsum.photos/seed/recipe29/600/400",
+    "author": "Chef David",
+    "ingredients": [
+      {
+        "name": "Milk",
+        "amount": "309g"
+      },
+      {
+        "name": "Tomato",
+        "amount": "174g"
+      },
+      {
+        "name": "Coriander",
+        "amount": "208g"
+      },
+      {
+        "name": "Salt",
+        "amount": "474g"
+      },
+      {
+        "name": "Paprika",
+        "amount": "32g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Serve hot with garnish."
+      }
+    ]
+  },
+  {
+    "title": "Classic Spaghetti Bolognese",
+    "time": "85 min",
+    "rating": "3.7",
+    "image": "https://picsum.photos/seed/recipe30/600/400",
+    "author": "Chef Maya",
+    "ingredients": [
+      {
+        "name": "Rice",
+        "amount": "118g"
+      },
+      {
+        "name": "Coriander",
+        "amount": "464g"
+      },
+      {
+        "name": "Tomato",
+        "amount": "172g"
+      },
+      {
+        "name": "Chili",
+        "amount": "174g"
+      },
+      {
+        "name": "Butter",
+        "amount": "391g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      }
+    ]
+  },
+  {
+    "title": "Kimchi Stew",
+    "time": "32 min",
+    "rating": "4.8",
+    "image": "https://picsum.photos/seed/recipe31/600/400",
+    "author": "Chef John",
+    "ingredients": [
+      {
+        "name": "Olive Oil",
+        "amount": "71g"
+      },
+      {
+        "name": "Milk",
+        "amount": "269g"
+      },
+      {
+        "name": "Salt",
+        "amount": "240g"
+      },
+      {
+        "name": "Milk",
+        "amount": "273g"
+      },
+      {
+        "name": "Pepper",
+        "amount": "106g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Chop all the vegetables."
+      }
+    ]
+  },
+  {
+    "title": "Moussaka",
+    "time": "48 min",
+    "rating": "4.4",
+    "image": "https://picsum.photos/seed/recipe32/600/400",
+    "author": "Chef Ali",
+    "ingredients": [
+      {
+        "name": "Carrot",
+        "amount": "26g"
+      },
+      {
+        "name": "Coconut Milk",
+        "amount": "400g"
+      },
+      {
+        "name": "Garlic",
+        "amount": "186g"
+      },
+      {
+        "name": "Carrot",
+        "amount": "204g"
+      },
+      {
+        "name": "Paprika",
+        "amount": "394g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Taste and adjust seasoning."
+      }
+    ]
+  },
+  {
+    "title": "Beef Pho",
+    "time": "77 min",
+    "rating": "3.7",
+    "image": "https://picsum.photos/seed/recipe33/600/400",
+    "author": "Chef John",
+    "ingredients": [
+      {
+        "name": "Cumin",
+        "amount": "223g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "358g"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "227g"
+      },
+      {
+        "name": "Beef",
+        "amount": "332g"
+      },
+      {
+        "name": "Coconut Milk",
+        "amount": "490g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Heat oil in a pan."
+      }
+    ]
+  },
+  {
+    "title": "Ramen",
+    "time": "17 min",
+    "rating": "3.8",
+    "image": "https://picsum.photos/seed/recipe34/600/400",
+    "author": "Chef Ali",
+    "ingredients": [
+      {
+        "name": "Carrot",
+        "amount": "343g"
+      },
+      {
+        "name": "Cumin",
+        "amount": "12g"
+      },
+      {
+        "name": "Tomato",
+        "amount": "467g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "24g"
+      },
+      {
+        "name": "Coriander",
+        "amount": "366g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Simmer until cooked through."
+      }
+    ]
+  },
+  {
+    "title": "Beef Stroganoff",
+    "time": "26 min",
+    "rating": "3.8",
+    "image": "https://picsum.photos/seed/recipe35/600/400",
+    "author": "Chef David",
+    "ingredients": [
+      {
+        "name": "Egg",
+        "amount": "462g"
+      },
+      {
+        "name": "Coriander",
+        "amount": "279g"
+      },
+      {
+        "name": "Potato",
+        "amount": "246g"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "466g"
+      },
+      {
+        "name": "Salt",
+        "amount": "154g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      }
+    ]
+  },
+  {
+    "title": "Clam Chowder",
+    "time": "51 min",
+    "rating": "4.2",
+    "image": "https://picsum.photos/seed/recipe36/600/400",
+    "author": "Chef John",
+    "ingredients": [
+      {
+        "name": "Olive Oil",
+        "amount": "74g"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "120g"
+      },
+      {
+        "name": "Pepper",
+        "amount": "435g"
+      },
+      {
+        "name": "Pepper",
+        "amount": "97g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "300g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Simmer until cooked through."
+      }
+    ]
+  },
+  {
+    "title": "Shakshuka",
+    "time": "54 min",
+    "rating": "4.8",
+    "image": "https://picsum.photos/seed/recipe37/600/400",
+    "author": "Chef Ali",
+    "ingredients": [
+      {
+        "name": "Coriander",
+        "amount": "122g"
+      },
+      {
+        "name": "Pepper",
+        "amount": "19g"
+      },
+      {
+        "name": "Salt",
+        "amount": "259g"
+      },
+      {
+        "name": "Potato",
+        "amount": "92g"
+      },
+      {
+        "name": "Potato",
+        "amount": "233g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Chop all the vegetables."
+      }
+    ]
+  },
+  {
+    "title": "Cabbage Soup",
+    "time": "11 min",
+    "rating": "5.0",
+    "image": "https://picsum.photos/seed/recipe38/600/400",
+    "author": "Chef Siti",
+    "ingredients": [
+      {
+        "name": "Rice",
+        "amount": "417g"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "384g"
+      },
+      {
+        "name": "Garlic",
+        "amount": "263g"
+      },
+      {
+        "name": "Celery",
+        "amount": "407g"
+      },
+      {
+        "name": "Butter",
+        "amount": "375g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Heat oil in a pan."
+      }
+    ]
+  },
+  {
+    "title": "Prawn Laksa",
+    "time": "66 min",
+    "rating": "3.9",
+    "image": "https://picsum.photos/seed/recipe39/600/400",
+    "author": "Chef Maya",
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "amount": "487g"
+      },
+      {
+        "name": "Onion",
+        "amount": "85g"
+      },
+      {
+        "name": "Egg",
+        "amount": "310g"
+      },
+      {
+        "name": "Celery",
+        "amount": "75g"
+      },
+      {
+        "name": "Egg",
+        "amount": "492g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Heat oil in a pan."
+      }
+    ]
+  },
+  {
+    "title": "Pad Thai",
+    "time": "13 min",
+    "rating": "4.0",
+    "image": "https://picsum.photos/seed/recipe40/600/400",
+    "author": "Chef Maya",
+    "ingredients": [
+      {
+        "name": "Coriander",
+        "amount": "463g"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "106g"
+      },
+      {
+        "name": "Coriander",
+        "amount": "79g"
+      },
+      {
+        "name": "Coconut Milk",
+        "amount": "66g"
+      },
+      {
+        "name": "Butter",
+        "amount": "361g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      }
+    ]
+  },
+  {
+    "title": "Clam Chowder",
+    "time": "17 min",
+    "rating": "4.4",
+    "image": "https://picsum.photos/seed/recipe41/600/400",
+    "author": "Chef Ali",
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "amount": "389g"
+      },
+      {
+        "name": "Tomato",
+        "amount": "364g"
+      },
+      {
+        "name": "Chili",
+        "amount": "1g"
+      },
+      {
+        "name": "Egg",
+        "amount": "407g"
+      },
+      {
+        "name": "Beef",
+        "amount": "161g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Heat oil in a pan."
+      }
+    ]
+  },
+  {
+    "title": "Miso Soup",
+    "time": "38 min",
+    "rating": "4.5",
+    "image": "https://picsum.photos/seed/recipe42/600/400",
+    "author": "Chef Maya",
+    "ingredients": [
+      {
+        "name": "Milk",
+        "amount": "111g"
+      },
+      {
+        "name": "Salt",
+        "amount": "238g"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "350g"
+      },
+      {
+        "name": "Butter",
+        "amount": "188g"
+      },
+      {
+        "name": "Carrot",
+        "amount": "279g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Simmer until cooked through."
+      }
+    ]
+  },
+  {
+    "title": "Vegetable Stir Fry",
+    "time": "62 min",
+    "rating": "4.5",
+    "image": "https://picsum.photos/seed/recipe43/600/400",
+    "author": "Chef Maya",
+    "ingredients": [
+      {
+        "name": "Coconut Milk",
+        "amount": "372g"
+      },
+      {
+        "name": "Celery",
+        "amount": "134g"
+      },
+      {
+        "name": "Noodles",
+        "amount": "131g"
+      },
+      {
+        "name": "Paprika",
+        "amount": "171g"
+      },
+      {
+        "name": "Paprika",
+        "amount": "320g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Serve hot with garnish."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Taste and adjust seasoning."
+      }
+    ]
+  },
+  {
+    "title": "Greek Salad",
+    "time": "78 min",
+    "rating": "3.6",
+    "image": "https://picsum.photos/seed/recipe44/600/400",
+    "author": "Chef Anna",
+    "ingredients": [
+      {
+        "name": "Paprika",
+        "amount": "435g"
+      },
+      {
+        "name": "Salt",
+        "amount": "399g"
+      },
+      {
+        "name": "Salt",
+        "amount": "449g"
+      },
+      {
+        "name": "Tomato",
+        "amount": "231g"
+      },
+      {
+        "name": "Celery",
+        "amount": "184g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Serve hot with garnish."
+      }
+    ]
+  },
+  {
+    "title": "Katsu Curry",
+    "time": "13 min",
+    "rating": "4.0",
+    "image": "https://picsum.photos/seed/recipe45/600/400",
+    "author": "Chef Anna",
+    "ingredients": [
+      {
+        "name": "Carrot",
+        "amount": "470g"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "197g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "205g"
+      },
+      {
+        "name": "Salt",
+        "amount": "298g"
+      },
+      {
+        "name": "Celery",
+        "amount": "381g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Taste and adjust seasoning."
+      }
+    ]
+  },
+  {
+    "title": "Beef Rendang",
+    "time": "80 min",
+    "rating": "4.3",
+    "image": "https://picsum.photos/seed/recipe46/600/400",
+    "author": "Chef Ali",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "amount": "87g"
+      },
+      {
+        "name": "Fish Sauce",
+        "amount": "399g"
+      },
+      {
+        "name": "Egg",
+        "amount": "453g"
+      },
+      {
+        "name": "Cumin",
+        "amount": "273g"
+      },
+      {
+        "name": "Onion",
+        "amount": "222g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Serve hot with garnish."
+      }
+    ]
+  },
+  {
+    "title": "Chicken Fajitas",
+    "time": "51 min",
+    "rating": "4.3",
+    "image": "https://picsum.photos/seed/recipe47/600/400",
+    "author": "Chef Maya",
+    "ingredients": [
+      {
+        "name": "Cumin",
+        "amount": "391g"
+      },
+      {
+        "name": "Tomato",
+        "amount": "436g"
+      },
+      {
+        "name": "Butter",
+        "amount": "363g"
+      },
+      {
+        "name": "Rice",
+        "amount": "491g"
+      },
+      {
+        "name": "Carrot",
+        "amount": "241g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Taste and adjust seasoning."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Heat oil in a pan."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Taste and adjust seasoning."
+      }
+    ]
+  },
+  {
+    "title": "Tom Yum Soup",
+    "time": "22 min",
+    "rating": "4.8",
+    "image": "https://picsum.photos/seed/recipe48/600/400",
+    "author": "Chef Siti",
+    "ingredients": [
+      {
+        "name": "Paprika",
+        "amount": "101g"
+      },
+      {
+        "name": "Beef",
+        "amount": "51g"
+      },
+      {
+        "name": "Potato",
+        "amount": "177g"
+      },
+      {
+        "name": "Milk",
+        "amount": "395g"
+      },
+      {
+        "name": "Celery",
+        "amount": "144g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add protein and cook until browned."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Chop all the vegetables."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stir in spices and seasonings."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      }
+    ]
+  },
+  {
+    "title": "Ratatouille",
+    "time": "61 min",
+    "rating": "3.6",
+    "image": "https://picsum.photos/seed/recipe49/600/400",
+    "author": "Chef John",
+    "ingredients": [
+      {
+        "name": "Carrot",
+        "amount": "498g"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "155g"
+      },
+      {
+        "name": "Onion",
+        "amount": "35g"
+      },
+      {
+        "name": "Celery",
+        "amount": "364g"
+      },
+      {
+        "name": "Egg",
+        "amount": "445g"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Add onions and garlic, saut\u00e9 until fragrant."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Add main liquid (water, stock, or coconut milk)."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Simmer until cooked through."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Chop all the vegetables."
+      }
+    ]
+  }
+]

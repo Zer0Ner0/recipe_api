@@ -13,6 +13,9 @@ from django.shortcuts import render, get_object_or_404, redirect
 from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework.permissions import IsAuthenticatedOrReadOnly
 from .filters import RecipeFilter  #  use your custom filter
+from django.views.decorators.csrf import csrf_exempt
+from django.http import JsonResponse
+import json
 
 class RecipeViewSet(viewsets.ModelViewSet):
     queryset = Recipe.objects.all().order_by('-created_at')
@@ -64,15 +67,13 @@ def recipe_list(request):
     recipes = Recipe.objects.all()
     return render(request, 'recipe_list.html', {'recipes': recipes})
 
-def recipe_add(request):
-    if request.method == "POST":
-        form = RecipeForm(request.POST, request.FILES)
-        if form.is_valid():
-            form.save()
-            return redirect('recipe_list')
-    else:
-        form = RecipeForm()
-    return render(request, 'recipe_form.html', {'form': form})
+@csrf_exempt
+def add_recipe(request):
+    if request.method == 'POST':
+        data = json.loads(request.body)
+        # save the recipe
+        return JsonResponse({"message": "Recipe created successfully"}, status=201)
+    return JsonResponse({"error": "Invalid request"}, status=400)
 
 def recipe_edit(request, pk):
     recipe = get_object_or_404(Recipe, pk=pk)

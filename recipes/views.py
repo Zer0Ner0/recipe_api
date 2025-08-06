@@ -2,6 +2,11 @@ from django.forms import inlineformset_factory
 from rest_framework import viewsets, mixins, status, filters
 from rest_framework.decorators import action
 from rest_framework.response import Response
+from django.utils.decorators import method_decorator
+from django.views.decorators.cache import cache_page
+from django.shortcuts import render, get_object_or_404, redirect
+from django_filters.rest_framework import DjangoFilterBackend
+from rest_framework.permissions import IsAuthenticatedOrReadOnly
 from .models import Recipe, Ingredient, Step, Review, Notification, SavedRecipe
 from .serializers import (
     IngredientSerializer, StepSerializer, ReviewSerializer,
@@ -9,11 +14,8 @@ from .serializers import (
     RecipeListSerializer, FullRecipeSerializer
 )
 from .forms import RecipeForm, IngredientFormSet, RecipeStepFormSet
-from django.shortcuts import render, get_object_or_404, redirect
-from django_filters.rest_framework import DjangoFilterBackend
-from rest_framework.permissions import IsAuthenticatedOrReadOnly
-from .filters import RecipeFilter  #  use your custom filter
-from django.core.paginator import Paginator
+from .filters import RecipeFilter
+
 
 class RecipeViewSet(viewsets.ModelViewSet):
     queryset = Recipe.objects.all().order_by('-created_at')

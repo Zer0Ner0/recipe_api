@@ -18,7 +18,7 @@ router.register(r'saved', SavedRecipeViewSet, basename='saved')
 
 urlpatterns = [
     # Admin HTML views
-     path('admin/', lambda request: redirect('recipe_list')),
+    path('admin/', lambda request: redirect('recipe_list')),
     path('admin/recipes/', views.recipe_list, name='recipe_list'),
     path('admin/recipes/add/', views.recipe_add, name='recipe_add'),
     path('admin/recipes/edit/<int:pk>/', views.recipe_edit, name='recipe_edit'),
